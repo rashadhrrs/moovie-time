@@ -6,6 +6,7 @@
     position: absolute;
     width: 100%;
     right: 1px;
+    z-index: 1000;
 }
 
 .navbar-list{
@@ -22,6 +23,7 @@
     color: white;
     list-style: none;
     margin-right: 30px;
+    cursor: pointer;
     
 }
 
